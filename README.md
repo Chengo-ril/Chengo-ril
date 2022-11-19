@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chengo-ril
-- 👀 I’m interested in programming and making a cnnection with people with like minds
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in programming and creating a connection with people with like minds
+- 🌱 I have an understanding of PHP and now on my path to learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... chengorilstunna@gmail.com
 
